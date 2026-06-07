@@ -1,0 +1,95 @@
+{
+  "documents": [
+    {
+      "slug": "00-introduction",
+      "title": "Introduction",
+      "filename": "00-introduction.md",
+      "lastUpdated": "2026-06-07",
+      "description": "What Alissa is, the epistemic journey it orchestrates, and who it serves."
+    },
+    {
+      "slug": "01-epistemic-stack",
+      "title": "The Epistemic Stack",
+      "filename": "01-epistemic-stack.md",
+      "lastUpdated": "2026-06-07",
+      "description": "The four-layer ontological model at Alissa's core — from observation to execution."
+    },
+    {
+      "slug": "02-observables",
+      "title": "Observables — The Ground Truth",
+      "filename": "02-observables.md",
+      "lastUpdated": "2026-06-07",
+      "description": "The atomic unit of Alissa's epistemology: canonical evaluable properties of organizational reality."
+    },
+    {
+      "slug": "03-theories-of-change",
+      "title": "Theories of Change — The Causal Worldview",
+      "filename": "03-theories-of-change.md",
+      "lastUpdated": "2026-06-07",
+      "description": "Structured causal beliefs about how changes in one observable influence others."
+    },
+    {
+      "slug": "04-objectives",
+      "title": "Objectives — The Desired State",
+      "filename": "04-objectives.md",
+      "lastUpdated": "2026-06-07",
+      "description": "Evaluable desired conditions over observed reality that bridge understanding and intent."
+    },
+    {
+      "slug": "05-projects",
+      "title": "Projects — The Coordinated Intervention",
+      "filename": "05-projects.md",
+      "lastUpdated": "2026-06-07",
+      "description": "Time-bounded coordination constructs that organize intentional work toward bounded outcomes."
+    },
+    {
+      "slug": "06-processes",
+      "title": "Processes — Operational Stewardship",
+      "filename": "06-processes.md",
+      "lastUpdated": "2026-06-07",
+      "description": "Persistent, task-generating workflows that manage entity state transitions and SLA enforcement."
+    },
+    {
+      "slug": "07-execution-layer",
+      "title": "The Execution Layer",
+      "filename": "07-execution-layer.md",
+      "lastUpdated": "2026-06-07",
+      "description": "How projects decompose into milestones, bodies of work, and tasks — the atomic unit of executable work."
+    },
+    {
+      "slug": "08-agentic-governance",
+      "title": "Agentic Governance",
+      "filename": "08-agentic-governance.md",
+      "lastUpdated": "2026-06-07",
+      "description": "How human and AI actors coexist under a unified accountability model with sponsor-gated execution."
+    },
+    {
+      "slug": "09-founding-principles",
+      "title": "Founding Principles",
+      "filename": "09-founding-principles.md",
+      "lastUpdated": "2026-06-07",
+      "description": "The three core beliefs and seven structural principles that define Alissa's integrity."
+    },
+    {
+      "slug": "10-concept-map",
+      "title": "Concept Map",
+      "filename": "10-concept-map.md",
+      "lastUpdated": "2026-06-07",
+      "description": "Symbol-to-concept reference table and the full traceability chain from task to observable."
+    },
+    {
+      "slug": "11-two-ways-in",
+      "title": "Two Ways In — Bottom-Up and Top-Down",
+      "filename": "11-two-ways-in.md",
+      "lastUpdated": "2026-06-07",
+      "description": "How users can enter Alissa from either end of the Epistemic Stack and converge at the project layer."
+    },
+    {
+      "slug": "12-positioning",
+      "title": "Positioning — Selective Semantic Cognition",
+      "filename": "12-positioning.md",
+      "lastUpdated": "2026-06-07",
+      "description": "What Alissa is — the emergent awareness layer where business context, observability, and accountability converge."
+    }
+  ]
+}
